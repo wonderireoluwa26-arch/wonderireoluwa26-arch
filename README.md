@@ -1,4 +1,4 @@
-# Hi, I'm Wonder Ireoluwa 👋
+# Hi, I'm Wonder Boaz 👋
 
 I'm a Statistics student and aspiring Data Analyst & Data Scientist, passionate about using data to uncover insights, solve real-world problems, and support better decision-making.
 
